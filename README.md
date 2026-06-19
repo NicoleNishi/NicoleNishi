@@ -22,5 +22,5 @@ I'm currently learning:
 - Java
 
 📫 Contact:
-- LinkedIn: https://www.linkedin.com/in/nicole-nishi-882946260/
+- [LinkedIn](https://www.linkedin.com/in/nicole-nishi-882946260/)
 - E-mail: nicole.nishi04@gmail.com
