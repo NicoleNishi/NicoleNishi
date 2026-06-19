@@ -2,8 +2,7 @@
 
 🎓 Information Systems Student at the University of São Paulo (USP)
 
-🌱 Studies and learning
-I'm currently learning:
+📚 | Current Focus:
 - Power BI
 - Python
 - Excel
