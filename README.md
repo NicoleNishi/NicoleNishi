@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Nicole 👋
 
-<!--
-**NicoleNishi/NicoleNishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Systems Student at the University of São Paulo (USP)
 
-Here are some ideas to get you started:
+🌱 Studies and learning
+I'm currently learning:
+- Power BI
+- Python
+- Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Interested in:
+- Data Analytics
+- Business Intelligence
+- Operations
+- Product & Technology
+
+🛠 Technologies:
+- Python
+- SQL
+- Power BI
+- Excel
+- Java
+
+📫 Contact:
+- LinkedIn: https://www.linkedin.com/in/nicole-nishi-882946260/
+- E-mail: nicole.nishi04@gmail.com
