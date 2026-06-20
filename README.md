@@ -1,4 +1,4 @@
-<img width="640" height="266" alt="Image" src="https://github.com/user-attachments/assets/c5efa035-3385-42bf-82eb-23f08d592001" />
+<img width="977" height="550" alt="Image" src="https://github.com/user-attachments/assets/526e2c1c-111e-4e36-946f-c21f348921a8" />
 
 ## Hi, I'm Nicole 👋
 
