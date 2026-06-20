@@ -1,3 +1,4 @@
+<img width="660" height="432" alt="Image" src="https://github.com/user-attachments/assets/76addfb8-b1c1-4d9a-ba7f-20bb8d50752e" />
 ## Hi, I'm Nicole 👋
 
 🎓 Information Systems Student at the University of São Paulo (USP)
